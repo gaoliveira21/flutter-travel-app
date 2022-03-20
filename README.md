@@ -1,16 +1,9 @@
-# travel_app
+# :desert_island: Travel App
 
-A new Flutter project.
+<p>
+  <img src="./.github/assets/travel_app.jpg">
+</p>
 
-## Getting Started
+:paintbrush: Designed by [Kuldip Patel](https://dribbble.com/KuldipPatel)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+:tv: Watch the tutorial here: [Flutter UI Travel App Tutorial | App from Scratch](https://www.youtube.com/watch?v=3ST2Rl6mL74&ab_channel=FullstackSchool)
