@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+
 import 'package:travel_app/widgets/most_popular.dart';
 import 'package:travel_app/widgets/travel_blog.dart';
 
